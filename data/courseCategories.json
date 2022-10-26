@@ -1,0 +1,30 @@
+[
+    {
+      "id": "01",
+      "name": "Microsoft Word"
+    },
+    {
+      "id": "02",
+      "name": "Microsoft PowerPoint"
+    },
+    {
+      "id": "03",
+      "name": "Microsoft Excel"
+    },
+    {
+      "id": "04",
+      "name": "Photoshop"
+    },
+    {
+      "id": "05",
+      "name": "Web design"
+    },
+    {
+      "id": "06",
+      "name": "Graphic design"
+    },
+    {
+      "id": "07",
+      "name": "All courses"
+    }
+  ]
